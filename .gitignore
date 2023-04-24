@@ -1,0 +1,13 @@
+.DS_Store
+*.logs
+node_modules/
+.vscode/
+firebaseAPI_BBY03.js
+api.txt
+.firebase/hosting..cache
+.firebaserc
+404.html
+firebase.json
+firestore.indexes.json
+firestore.rules
+storage.rules
